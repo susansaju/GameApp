@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.active{
+    border-bottom: 4px solid blueviolet;
+    border-radius: 2px;
+    font-weight: bold;
+    color: blueviolet;
+}
